@@ -197,7 +197,7 @@ a{
   margin: 40px auto 40px;
 }
 .contact-me{
-  padding: 0 15% 5%;
+  padding: 0 10% 5%;
   margin: auto;
 }
 .btn-primary{
@@ -303,5 +303,9 @@ text-decoration: none;
   }
   .copyright{
     font-size: 1.2rem;
+  }
+  .btn-lg{
+    font-size: 2rem;
+    margin: 15px 0 0;
   }
 }
